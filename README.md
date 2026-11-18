@@ -10,7 +10,6 @@
 ### 🔗 Quick Links
 
 - 👨‍💻 **Portfolio:** Coming soon
-- 📄 **Resume:** [Add your resume link here]
 - 💼 **LinkedIn:** [Bhoomi Dembani](https://www.linkedin.com/in/bhoomi-dembani-87305b329/)
 - 📍 Based in Pune, India
 
