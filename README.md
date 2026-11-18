@@ -9,7 +9,7 @@
 
 ### 🔗 Quick Links
 
-- 👨‍💻 **Portfolio:** Coming soon
+- 👨‍💻 **Portfolio:** https://bhoomi-dembani-portfolio.vercel.app
 - 💼 **LinkedIn:** [Bhoomi Dembani](https://www.linkedin.com/in/bhoomi-dembani-87305b329/)
 - 📍 Based in Pune, India
 
